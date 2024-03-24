@@ -27,7 +27,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'tamoverk.urls'
+ROOT_URLCONF = 'tamoverk12.urls'
 
 TEMPLATES = [
     {
@@ -45,7 +45,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'tamoverk.wsgi.application'
+WSGI_APPLICATION = 'tamoverk12.wsgi.application'
 
 DATABASES = {
     'default': {
